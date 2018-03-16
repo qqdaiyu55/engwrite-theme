@@ -4,6 +4,4 @@ This is an [english-stackexchange-like](http://english.stackexchange.com/) theme
 
 ## Preview
 
-![1](http://i.imgur.com/FmsQVON.png)
-
-![2](http://i.imgur.com/3teJxn8.png)
+![1]([Imgur](https://i.imgur.com/eRSZ5LZ.png)
