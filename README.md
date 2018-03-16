@@ -4,4 +4,4 @@ This is an [english-stackexchange-like](http://english.stackexchange.com/) theme
 
 ## Preview
 
-![1]([Imgur](https://i.imgur.com/eRSZ5LZ.png)
+![1](https://i.imgur.com/eRSZ5LZ.png)
